@@ -2,10 +2,6 @@
 
 > Use this action to deploy your files to server using `SSH Private Key`
 
-> 使用此`action`部署你的项目到服务器上,`仅支持密钥对连接`
-
-> [使用Github Action 部署项目到云服务器](https://zhuanlan.zhihu.com/p/107545396)
-
 
 ## Inputs
 
